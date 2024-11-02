@@ -186,6 +186,7 @@ main{
    border-radius: 30px;
    aspect-ratio: 16/9;
    object-fit: cover;
+   border: 1px solid gray;
 }
 .project-desc{
     color: gray;
@@ -215,6 +216,9 @@ main{
     display: block;
     width: 200px;
     margin: 2rem auto 0;
+}
+ul {
+    list-style-type: none;
 }
 .footer-social {
     padding-left: 0;
